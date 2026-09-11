@@ -551,3 +551,4 @@ Contributions are always welcome!
 * [o11y Observability Podcast](https://www.honeycomb.io/usecase/o11ycast/ )
 * [On Call Nightmares (retired)](https://podcasts.apple.com/us/podcast/on-call-nightmares-podcast/id1447430839)
 * [Making of the SRE Omelette](https://open.spotify.com/show/1KxLVUduNdDRAiOw8BB32J)
+- [Hive80 Toolkit](https://github.com/Hive80-lab/hive80-toolkit) - Incident response checklists, on-call rotation, and postmortem templates for small teams without a dedicated ops department
