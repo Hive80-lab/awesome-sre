@@ -551,3 +551,7 @@ Contributions are always welcome!
 * [o11y Observability Podcast](https://www.honeycomb.io/usecase/o11ycast/ )
 * [On Call Nightmares (retired)](https://podcasts.apple.com/us/podcast/on-call-nightmares-podcast/id1447430839)
 * [Making of the SRE Omelette](https://open.spotify.com/show/1KxLVUduNdDRAiOw8BB32J)
+
+## Related (small-team ops)
+* [HIVE80lab ops-notes](https://hive80-lab.github.io/ops-notes/) - 158 free ops/SRE checklists for small teams (incident response, on-call, access reviews, vendor ops)
+* [Ops Starter Kit](https://hive80lab.gumroad.com/l/ops-starter-kit) - fill-in incident-response and access-review worksheets ($14)
