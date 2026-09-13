@@ -555,3 +555,9 @@ Contributions are always welcome!
 ## Related (small-team ops)
 * [HIVE80lab ops-notes](https://hive80-lab.github.io/ops-notes/) - 158 free ops/SRE checklists for small teams (incident response, on-call, access reviews, vendor ops)
 * [Ops Starter Kit](https://hive80lab.gumroad.com/l/ops-starter-kit) - fill-in incident-response and access-review worksheets ($14)
+
+## Free Resources from Hive80 Lab
+
+- **[The First 30 Minutes — Incident Quick-Start Checklist](https://hive80lab.gumroad.com/l/first-30-minutes)** — Free, no signup. Print it, pin it, hope you never need it.
+- **[The 12-Point Security Audit for Small Businesses](https://dev.to/hive80lab/the-12-point-security-audit-every-small-business-should-run-today-f9m)** — Run this audit in under an hour.
+- **[Ops Starter Kit — Incident Response for Small Teams](https://hive80lab.gumroad.com/l/ops-starter-kit)** — Complete IR template, $14 (50% off with code LAUNCH50).
